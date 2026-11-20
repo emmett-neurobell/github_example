@@ -3,8 +3,8 @@
 ## Set up your git
 
 ```
-git config --global user.name "[Emmett Fitzharris]"
-git config --global user.email “[emmett@neurobell.com]”
+git config --global user.name "[Fatima Neurobell]"
+git config --global user.email “[fatima@neurobell.com]”
 ```
 
 ## Log into github
